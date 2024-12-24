@@ -1,3 +1,11 @@
+# 소스 목표
+## 해당 소스는 react-router-dom의 학습이 목표에 있다.
+1. 리액트의 라우터의 개념을 익힌다.
+2. rest api 개념을 익힌다.
+3. 동적 url 파라메타의 수신방법을 익힌다.
+4. 쿼리 파라메타의 수신방법을 익힌다.
+5. 리다이렉트 사용법을 익힌다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
